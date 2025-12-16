@@ -68,43 +68,43 @@ gcc main.c renderer.c texture.c initclose.c isoEngine.c -o SavasSim -lmingw32 -l
 gcc main.c renderer.c texture.c initclose.c isoEngine.c -o SavasSim -lSDL2 -lSDL2_image -lSDL2_ttf -lcurl -lm
 ```
 
-🎮 Nasıl Kullanılır?
-Uygulamayı çalıştırın (SavasSim.exe veya ./SavasSim).
+### 🎮 Nasıl Kullanılır?
+1. Uygulamayı çalıştırın (SavasSim.exe veya ./SavasSim).
 
-Konsol ekranında karşınıza çıkan menüden oynamak istediğiniz Senaryo Numarasını (1-10) seçin.
+2. Konsol ekranında karşınıza çıkan menüden oynamak istediğiniz Senaryo Numarasını (1-10) seçin.
 
-Program, seçilen senaryoyu sunucudan indirecek (senerio.json olarak kaydeder) ve savaşı başlatacaktır.
+3. Program, seçilen senaryoyu sunucudan indirecek (senerio.json olarak kaydeder) ve savaşı başlatacaktır.
 
-Grafik Ekranı: Savaş alanını ve birliklerin durumunu görsel olarak takip edebilirsiniz.
+4. Grafik Ekranı: Savaş alanını ve birliklerin durumunu görsel olarak takip edebilirsiniz.
 
-Yeşil/Sarı/Kırmızı barlar birliklerin sağlık durumunu gösterir.
+* Yeşil/Sarı/Kırmızı barlar birliklerin sağlık durumunu gösterir.
 
-Birimlerin üzerindeki sayılar kalan asker miktarını belirtir.
+* Birimlerin üzerindeki sayılar kalan asker miktarını belirtir.
 
-Sonuç: Simülasyon bittiğinde detaylı rapor Savas_sim.txt dosyasında bulunabilir.
+5. Sonuç: Simülasyon bittiğinde detaylı rapor Savas_sim.txt dosyasında bulunabilir.
 
-⚔️ Oyun Mekanikleri
-Irklar ve Birimler
-İnsan İmparatorluğu: Piyadeler, Okçular, Süvariler, Kuşatma Makineleri.
+### ⚔️ Oyun Mekanikleri
+ # Irklar ve Birimler
+* İnsan İmparatorluğu: Piyadeler, Okçular, Süvariler, Kuşatma Makineleri.
 
-Ork Lejyonu: Ork Dövüşçüleri, Mızrakçılar, Varg Binicileri, Troller.
+* Ork Lejyonu: Ork Dövüşçüleri, Mızrakçılar, Varg Binicileri, Troller.
 
-Kritik Faktörler
-Araştırmalar:
+# Kritik Faktörler
+# 1. Araştırmalar:
 
-Savunma Ustalığı: Birimlerin savunma gücünü artırır.
+* Savunma Ustalığı: Birimlerin savunma gücünü artırır.
 
-Saldırı Geliştirmesi: Hasar kapasitesini artırır.
+* Saldırı Geliştirmesi: Hasar kapasitesini artırır.
 
-Elit Eğitim: Kritik vuruş şansını artırır.
+* Elit Eğitim: Kritik vuruş şansını artırır.
 
-Kahramanlar & Canavarlar:
+# 2. Kahramanlar & Canavarlar:
 
-Her kahraman ve canavar, belirli birlik türlerine (örn: Piyadelere) ekstra bonuslar (Saldırı, Savunma vb.) sağlar.
+* Her kahraman ve canavar, belirli birlik türlerine (örn: Piyadelere) ekstra bonuslar (Saldırı, Savunma vb.) sağlar.
 
-Yorgunluk:
+# 3. Yorgunluk:
 
 Her 5 turda bir, savaşan tüm birimler yorulur ve güçleri %10 azalır.
 
-📷 Ekran Görüntüleri
+### 📷 Ekran Görüntüleri
 (Buraya projenin çalışır haldeki ekran görüntüsünü eklerseniz çok şık durur)
