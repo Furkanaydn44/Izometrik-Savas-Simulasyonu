@@ -107,4 +107,4 @@ gcc main.c renderer.c texture.c initclose.c isoEngine.c -o SavasSim -lSDL2 -lSDL
 Her 5 turda bir, savaşan tüm birimler yorulur ve güçleri %10 azalır.
 
 ### 📷 Ekran Görüntüleri
-(Buraya projenin çalışır haldeki ekran görüntüsünü eklerseniz çok şık durur)
+<img width="1917" height="1022" alt="Image" src="https://github.com/user-attachments/assets/d712665c-ea3c-4ea4-ac1a-b99e9577a706" />
