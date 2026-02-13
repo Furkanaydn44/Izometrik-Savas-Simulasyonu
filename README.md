@@ -90,7 +90,7 @@ gcc main.c renderer.c texture.c initclose.c isoEngine.c -o SavasSim -lSDL2 -lSDL
 * Ork Lejyonu: Ork Dövüşçüleri, Mızrakçılar, Varg Binicileri, Troller.
 
 # Kritik Faktörler
-# 1. Araştırmalar:
+### 1. Araştırmalar:
 
 * Savunma Ustalığı: Birimlerin savunma gücünü artırır.
 
@@ -98,11 +98,11 @@ gcc main.c renderer.c texture.c initclose.c isoEngine.c -o SavasSim -lSDL2 -lSDL
 
 * Elit Eğitim: Kritik vuruş şansını artırır.
 
-# 2. Kahramanlar & Canavarlar:
+### 2. Kahramanlar & Canavarlar:
 
 * Her kahraman ve canavar, belirli birlik türlerine (örn: Piyadelere) ekstra bonuslar (Saldırı, Savunma vb.) sağlar.
 
-# 3. Yorgunluk:
+### 3. Yorgunluk:
 
 Her 5 turda bir, savaşan tüm birimler yorulur ve güçleri %10 azalır.
 
