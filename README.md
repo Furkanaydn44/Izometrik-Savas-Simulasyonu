@@ -2,6 +2,13 @@
 
 Bu proje, C programlama dili kullanılarak geliştirilmiş, **İnsan İmparatorluğu** ve **Ork Lejyonu** arasındaki savaşları simüle eden izometrik bir strateji oyunudur. Proje, senaryo verilerini internetten çeker, birliklerin özelliklerini işler ve savaş sonucunu hem görsel bir arayüzde (SDL2) sunar hem de detaylı bir metin günlüğü (log) oluşturur.
 
+## Proje Katılımcıları
+<a href="https://github.com/numankhy28">
+  <img src="https://avatars.githubusercontent.com/u/219421415?v=4" width="128" height="128" alt="numankhy28 GitHub Profile" />
+</a>
+<a href="https://github.com/Furkanaydn44">
+  <img src="https://avatars.githubusercontent.com/u/174454978?v=4" width="128" height="128" alt="Furkanaydn44 GitHub Profile" />
+</a>
 
 ## 🚀 Proje Hakkında
 
